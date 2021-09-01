@@ -1,5 +1,0 @@
-C:\D-Disk\_DevOps\helloworld-csharp\obj\Debug\net5.0\helloworld-csharp.csproj.AssemblyReference.cache
-C:\D-Disk\_DevOps\helloworld-csharp\obj\Debug\net5.0\helloworld-csharp.GeneratedMSBuildEditorConfig.editorconfig
-C:\D-Disk\_DevOps\helloworld-csharp\obj\Debug\net5.0\helloworld-csharp.AssemblyInfoInputs.cache
-C:\D-Disk\_DevOps\helloworld-csharp\obj\Debug\net5.0\helloworld-csharp.AssemblyInfo.cs
-C:\D-Disk\_DevOps\helloworld-csharp\obj\Debug\net5.0\helloworld-csharp.csproj.CoreCompileInputs.cache
